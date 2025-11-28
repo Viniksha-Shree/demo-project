@@ -1,2 +1,5 @@
 Hi!!!
 Welcome to DevOps class
+-----------------------------
+This is for checking update
+-----------------------------
